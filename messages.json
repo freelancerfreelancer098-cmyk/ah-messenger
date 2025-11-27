@@ -30,5 +30,13 @@
     "receiver": "ahlabs",
     "text": "Yes",
     "timestamp": "2025-11-27T13:45:21.300Z"
+  },
+  {
+    "id": "1764251254543",
+    "sender": "ahlabs",
+    "senderDisplayName": "AH Labs",
+    "receiver": "hadilabs",
+    "text": "Give me details",
+    "timestamp": "2025-11-27T13:47:34.543Z"
   }
 ]
