@@ -73,5 +73,13 @@
     "receiver": "hadilabs",
     "text": "Hey do u need my services",
     "timestamp": "2025-11-27T10:26:36.582Z"
+  },
+  {
+    "id": "1764241011837",
+    "sender": "ahmedomar",
+    "receiver": "hadilabs",
+    "text": "Hi",
+    "timestamp": "2025-11-27T10:56:51.837Z",
+    "read": false
   }
 ]
