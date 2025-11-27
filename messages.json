@@ -72,7 +72,8 @@
     "senderDisplayName": "AH Labs",
     "receiver": "hadilabs",
     "text": "Hey do u need my services",
-    "timestamp": "2025-11-27T10:26:36.582Z"
+    "timestamp": "2025-11-27T10:26:36.582Z",
+    "read": true
   },
   {
     "id": "1764241011837",
