@@ -47,7 +47,8 @@
     "senderDisplayName": "Jarvis",
     "receiver": "ahmedomar098",
     "text": "Hi",
-    "timestamp": "2025-11-27T02:43:13.492Z"
+    "timestamp": "2025-11-27T02:43:13.492Z",
+    "read": true
   },
   {
     "id": "1764211623648",
