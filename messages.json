@@ -62,5 +62,13 @@
     "receiver": "ahlabs",
     "text": "kia hal hay",
     "timestamp": "2025-12-04T13:00:48.104Z"
+  },
+  {
+    "id": "1764853264927",
+    "sender": "hadilabs",
+    "senderDisplayName": "HadiLabs",
+    "receiver": "ahlabs",
+    "text": "main nay login kar lia",
+    "timestamp": "2025-12-04T13:01:04.928Z"
   }
 ]
